@@ -9,3 +9,6 @@ A collection of awesome things regarding Modernizr
 ## Support
 
 ## Tips
+
+## License
+MIT © [kasiriveni](https://github.com/kasiriveni)
